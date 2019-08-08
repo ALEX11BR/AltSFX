@@ -1,0 +1,7 @@
+Version 10 - 2019-08-08
+=============================
+The first version with all sounds established.
+
+Version 1 - BETA - 2019-08-01
+=============================
+The first public version, with 38 established sounds.

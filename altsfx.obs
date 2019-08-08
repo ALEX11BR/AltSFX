@@ -1,0 +1,15 @@
+[metadata]
+name        = AltSFX
+shortname   = ASFX
+version     = 10
+palette     = Windows
+description = AltSFX sound set. A different sound effect pack. Available under CC-BY 4.0. Credits are in the readme!
+
+[files]
+samples = altsfx.cat
+
+[md5s]
+altsfx.cat = 7e9610fcd5cea719112f4dcea074f440
+
+[origin]
+default = Over the internet
