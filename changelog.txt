@@ -1,3 +1,7 @@
+Version 11 - 2019-08-22
+=============================
+Changed license to CC-BY 3.0. Reduced the volume of the ships sounds, adjusted the broken road vehicle sound and shortened the monorail, rail crossing and plane sounds.
+
 Version 10 - 2019-08-08
 =============================
 The first version with all sounds established.
