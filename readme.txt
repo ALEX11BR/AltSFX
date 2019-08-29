@@ -83,7 +83,9 @@ Samples from the following sounds were used:
   used in 46.wav
 - "bubble (3)" by Glaneur de sons from freesound.org - CC-BY 3.0
   used in 47.wav
-- "sweets machine on bus station_os.sobieskiego_06.04.2016" by miastodzwiekow from freesound.org - CC-BY 3.0
+- "G39-15-Steam Catapult" by craigsmith from freesound.org - CC0
+  used in 48.wav
+- "Metal_03" by Q.K. from freesound.org - CC0
   used in 48.wav
 - "bubbles (2)" and "bubble (2)" by Glaneur de sons from freesound.org - CC-BY 3.0
   used in 49.wav
