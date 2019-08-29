@@ -1,3 +1,7 @@
+Version 12 - 2019-08-30
+=============================
+Reduced the volume of the horns in road vehicle sounds and changed the toffee quarry sound.
+
 Version 11 - 2019-08-22
 =============================
 Changed license to CC-BY 3.0. Reduced the volume of the ships sounds, adjusted the broken road vehicle sound and shortened the monorail, rail crossing and plane sounds.

@@ -1,4 +1,4 @@
-This is the AltSFX sound set for OpenTTD (currently version 11). It tries to give its different feel while maintaining a CC-BY license.
+This is the AltSFX sound set for OpenTTD (currently version 12). It tries to give its different feel while maintaining a CC-BY license.
 At this moment it is complete. Feedback is appreciated (https://www.tt-forums.net/viewtopic.php?f=29&t=85650) . This sound set as a whole is under CC-BY 3.0 license.
 Samples from the following sounds were used:
 - "Fireworks Sound" by Stephan from soundbible.com - "public domain"
